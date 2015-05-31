@@ -35,3 +35,7 @@ Let's say you have an output value of something. For example a tap - which has t
 
 ## License
 Public Domain
+
+## More
+- Colors taken from the great game [Monument Valley](http://www.monumentvalleygame.com/)
+- Gif created with [GifRocket](http://www.gifrocket.com/)
