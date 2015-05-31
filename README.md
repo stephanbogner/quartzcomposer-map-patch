@@ -6,7 +6,9 @@ Re-maps a number from one range to another. That is, a value of fromLow would ge
 
 Does not constrain values to within the range, because out-of-range values are sometimes intended and useful.
 
-Code ported from [Arduino code](http://www.arduino.cc/en/Reference/Map) to Quartz Composer nodes.
+Ported from [Arduino](http://www.arduino.cc/en/Reference/Map) to Quartz Composer patch.
+
+The example uses patches from Facebook's [Origami](http://facebook.github.io/origami/), which I encourage you to install instantly, because it is the best thing that happened to Quartz Composer for interface prototyping.
 
 ## Installation
 ![Installation](installation.png)
