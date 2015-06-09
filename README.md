@@ -28,7 +28,7 @@ Note that the folder Library is hidden but [you can make it visible](http://ianl
 ![Explanation](images/map_explanation.png)
 
 ## What can you do with it?
-Let's say you have an output value of a patch. For example a tap - which has the states 1 or 0. But you want to animate something. If "tap" is 0 an image should be at y-position 248 and if "tap" is 0 it should be -50. You would set:
+Let's say you have an output value of a patch. For example a tap - which has the states 1 or 0. But you want to animate something. If "tap" is 0 an image should be at y-position 248 and if "tap" is 1 it should be -50. You would set:
 
 - Connect tap state to input
 - fromLow as 0 (because tap state toggles between 0 and 1)
